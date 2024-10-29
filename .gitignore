@@ -1,5 +1,5 @@
 # Ignore Jupyter notebooks
-*.ipynb
+# *.ipynb
 
 # Ignore PDF files
 *.pdf
