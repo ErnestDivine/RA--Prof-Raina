@@ -1,0 +1,12 @@
+# Ignore Jupyter notebooks
+*.ipynb
+
+# Ignore PDF files
+*.pdf
+
+# Ignore any temporary or log files
+# *.log
+# *.tmp
+
+# Ignore .vscode settings if they’re not meant for sharing
+.vscode/
